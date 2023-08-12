@@ -45,3 +45,35 @@ kubectl get pods -o wide
 kubectl delete -f pod-defination1.yml
 kubectl get pods
 vim pod-defination2.yml
+ls
+vim pod-defination2.yml
+kubectl apply -f pod-defination2.yml
+vim pod-defination2.yml
+kubectl apply -f pod-defination2.yml
+vim pod-defination2.yml
+kubectl apply -f pod-defination2.yml
+vim pod-defination2.yml
+kubectl apply -f pod-defination2.yml
+kubectl get pods
+kubectl delete -f pod-defination2.yml
+vim pod-defination3.yml
+kubectl apply -f pod-defination3.yml
+vim pod-defination3.yml
+kubectl apply -f pod-defination3.yml
+vim pod-defination3.yml
+kubectl apply -f pod-defination3.yml
+vim pod-defination3.yml
+kubectl apply -f pod-defination3.yml
+vim pod-defination3.yml
+kubectl apply -f pod-defination3.yml
+kubectl get pods
+kubectl get nodes -o wide
+kubectl get pod -o wide
+kubectl delete -f pod-defination3.yml
+git remote add origin https://github.com/Deepakkumar756119/k8s_file.git
+git init
+git add .
+git commit -m "a"
+git remote add origin https://github.com/Deepakkumar756119/k8s_file.git
+git push -u origin master
+exit
